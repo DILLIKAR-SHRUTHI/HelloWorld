@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+<parent title="kirupaPicks">
+<child>
+<title>kirupa.com</title>
+<main>Hello World</main>
+</child>
+</parent>
+</menu>
